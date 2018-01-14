@@ -5,7 +5,7 @@
       <span class="iconfont search-icon">&#xe632;</span>请输入搜索内容
     </div>
     <div class="city">
-       <router-link to="/bar">北京</router-link>
+       <router-link to="/bar">天津</router-link>
     </div>
   </div>
 </template>
